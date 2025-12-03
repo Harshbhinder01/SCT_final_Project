@@ -1,4 +1,4 @@
-// this is the interface to represent the functions output.
+// this is the interface to represent the functions
 interface portfolioPerformance {
     initialInvestment: number;
         currentValue: number;
